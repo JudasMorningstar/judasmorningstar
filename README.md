@@ -3,7 +3,7 @@
 ### 💻 Software Engineer | Autodidact | Open-Source Enthusiast
 
 - 🌱 **Autodidact**: Constantly learning and evolving through hands-on projects.
-- 🛠️ **Current Focus**: Building full-stack apps with **Shadcn UI**, **Next.js**, and **Drizzle ORM**; exploring **LLMs** like **Mistral**, **Llama 3.1**, and **Ollama** for creating **RAG** systems.
+- 🛠️ **Current Focus**: Building full-stack apps with **Shadcn UI**, **Tanstack Start**, **Drizzle ORM** and more.;
 - 🌍 **Location**: South Africa, collaborating globally 🌐.
 - 📚 **Learning Philosophy**: "Learning by doing — the best way to master new skills."
 
