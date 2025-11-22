@@ -7,11 +7,9 @@
 - 🌍 **Location**: South Africa, collaborating globally 🌐.
 - 📚 **Learning Philosophy**: "Learning by doing — the best way to master new skills."
 
-### ⚙️ Tech Stack
 
-Here are the tools and technologies I use:
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" /></a>
   <a href="https://ui.shadcn.com/" target="_blank"><img src="https://img.shields.io/badge/-Shadcn UI-black?style=for-the-badge&logo=shadcn&logoColor=white" /></a>
@@ -20,9 +18,8 @@ Here are the tools and technologies I use:
   <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://mistral.ai/" target="_blank"><img src="https://img.shields.io/badge/-Mistral LLM-orange?style=for-the-badge" /></a>
   <a href="https://ai.facebook.com/blog/introducing-llama-3/" target="_blank"><img src="https://img.shields.io/badge/-Llama 3.1-white?style=for-the-badge" /></a>
-</p>
+</p> -->
 
-I use these technologies to build **responsive**, **scalable**, and **high-performance** applications, while experimenting with **RAG** systems using **LLMs**.
 
 ### 📊 GitHub Stats
 <p align="left">
